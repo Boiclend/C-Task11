@@ -1,0 +1,6 @@
+Surname is Roman'
+'Expirience is 2'
+'HourlyWag is 50'
+'HoursWorked is 2150'
+'Salary is 107500'
+'Premy is 5375
