@@ -1,6 +1,7 @@
-Surname is Roman'
+Surname is Igoshin'
 'Expirience is 2'
 'HourlyWag is 50'
-'HoursWorked is 2150'
-'Salary is 107500'
-'Premy is 5375
+'HoursWorked is 2450'
+'Salary is 122500'
+'Premy is 6125
+
